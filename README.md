@@ -10,4 +10,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.facebook.com/pedroo2017/">	![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.facebook.com/pedroo2017/" target="blank">	![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.facebook.com/pedroo2017/" target="blank">	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/pedrofig17" target="blank">	![Twitter](https://img.shields.io/badge/<pedrofig17>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.facebook.com/pedroo2017/" target="blank">	![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://www.instagram.com/pedrofigueiredo17/" target="blank">	![Instagram](https://img.shields.io/badge/<pedrofigueiredo17>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+
+
+<h3 align="left">Skills:</h3>
