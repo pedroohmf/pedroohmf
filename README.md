@@ -1,6 +1,6 @@
-<h1 align="center">Hey you 👋, I'm Pedro Henrique.</h1>
+<h1 align="center">Olá, meu nome é Pedro 👋</h1>
 
-- 🚣🏻 I’m currently focus on studying **React** universe.
+- 🚣🏻 Atualmente estou focado em estudar o universo **React**.
 - 📩 Reach me at **pedrohfm2012@yahoo.com.br**.
 - ⚡ Javascript enthusiast.
 
@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Minhas skills:</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
